@@ -4,4 +4,10 @@
 // Create a third variable, myGreeting, that contatenates the two strings
 // Log myGreeting to the console
 
+let name = 42
+let greeting = "Hi, my name is "
+
+myGreeting = greeting + name
+console.log(myGreeting)
+
 
