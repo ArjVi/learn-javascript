@@ -11,6 +11,11 @@ let messages = [
 ]
 
 let newMessage = "Same here!"
+messages.push(newMessage)
+
+//remove last item in the array
+messages.pop()
+console.log(messages)
 
 
 
